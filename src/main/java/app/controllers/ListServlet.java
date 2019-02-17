@@ -1,7 +1,6 @@
-package app.contollers;
+package app.controllers;
 
 import app.services.UserService;
-import app.services.UserServiceImpl;
 import app.entities.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
